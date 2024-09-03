@@ -20,12 +20,12 @@
 - **Key Finding 4**: The final model effectively reduces multicollinearity, as indicated by acceptable VIF values.
 
 ## Technologies Used
-- **Python** - Version 3.x
-- **Pandas** - Version 1.x
-- **NumPy** - Version 1.x
-- **Scikit-learn** - Version 0.24.x
-- **Matplotlib** - Version 3.x
-- **Seaborn** - Version 0.11.x
+- **Python** - Version 3.11.5
+- **Pandas** - Version 2.2.2
+- **NumPy** - Version 1.26.4
+- **Scikit-learn** - Version 1.4.2
+- **Matplotlib** - Version 3.8.4
+- **Seaborn** - Version 0.13.2
 
 ## Acknowledgements
 - This project was inspired by coursework in my master's program.
